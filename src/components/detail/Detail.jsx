@@ -43,7 +43,7 @@ const Detail = () =>{
                         <img src="./bgg.jpg" alt="" width="300px" height="300px"/>
                         <span>photo_2024_2.png</span>
                     </div>
-                    <img src="./download.png" alt="" className="icon" />
+                        <img src="./download.png" alt="" className="icon" />
                     </div>
                 </div>
             </div>
@@ -54,6 +54,7 @@ const Detail = () =>{
                 </div>
             </div>   
             <button>block user</button>
+            <button className="logout">LogOut</button>
         </div>
     </div>
     );
